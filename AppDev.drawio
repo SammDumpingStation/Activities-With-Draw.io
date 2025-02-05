@@ -1,9 +1,39 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.11">
   <diagram name="Page-1" id="jjNrgL3_lARTYFzWYjl_">
-    <mxGraphModel>
+    <mxGraphModel dx="946" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1Zxr_ucoRSDE41h0RuXs-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="170" width="410" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="1Zxr_ucoRSDE41h0RuXs-3" value="App Dev Hub" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="397.5" y="180" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1Zxr_ucoRSDE41h0RuXs-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1Zxr_ucoRSDE41h0RuXs-5" target="1Zxr_ucoRSDE41h0RuXs-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Zxr_ucoRSDE41h0RuXs-5" value="Sir Arlene Baldelovar" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="465" width="70" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1Zxr_ucoRSDE41h0RuXs-10" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="280" width="100" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="1Zxr_ucoRSDE41h0RuXs-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1Zxr_ucoRSDE41h0RuXs-15" target="1Zxr_ucoRSDE41h0RuXs-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Zxr_ucoRSDE41h0RuXs-15" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="235" width="70" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1Zxr_ucoRSDE41h0RuXs-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1Zxr_ucoRSDE41h0RuXs-16" target="1Zxr_ucoRSDE41h0RuXs-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Zxr_ucoRSDE41h0RuXs-16" value="Classmates" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="465" width="70" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1Zxr_ucoRSDE41h0RuXs-20" value="Users" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
