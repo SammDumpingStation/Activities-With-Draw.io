@@ -1,9 +1,71 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.0.11">
   <diagram name="Page-1" id="JoTeFlpfI0sBr55cpw8Z">
-    <mxGraphModel>
+    <mxGraphModel dx="938" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xJZKZYmXjktM33wxzpQ9-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xJZKZYmXjktM33wxzpQ9-1" target="xJZKZYmXjktM33wxzpQ9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xJZKZYmXjktM33wxzpQ9-1" value="Customer Information" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="330" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xJZKZYmXjktM33wxzpQ9-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xJZKZYmXjktM33wxzpQ9-2" target="xJZKZYmXjktM33wxzpQ9-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xJZKZYmXjktM33wxzpQ9-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xJZKZYmXjktM33wxzpQ9-2" target="xJZKZYmXjktM33wxzpQ9-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xJZKZYmXjktM33wxzpQ9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xJZKZYmXjktM33wxzpQ9-2" target="xJZKZYmXjktM33wxzpQ9-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xJZKZYmXjktM33wxzpQ9-2" value="Package Selection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="330" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xJZKZYmXjktM33wxzpQ9-4" value="Menu Selection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="780" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xJZKZYmXjktM33wxzpQ9-6" value="Reservation Details" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="780" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xJZKZYmXjktM33wxzpQ9-8" value="Summmary" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="330" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xJZKZYmXjktM33wxzpQ9-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xJZKZYmXjktM33wxzpQ9-10" target="xJZKZYmXjktM33wxzpQ9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xJZKZYmXjktM33wxzpQ9-10" value="&amp;nbsp;Custom (Catering on Demand)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="480" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xJZKZYmXjktM33wxzpQ9-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xJZKZYmXjktM33wxzpQ9-14" target="xJZKZYmXjktM33wxzpQ9-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xJZKZYmXjktM33wxzpQ9-14" value="&lt;div&gt;With Predefined Package&amp;nbsp;&lt;/div&gt;&lt;div&gt;(Event Catering)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="480" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xJZKZYmXjktM33wxzpQ9-16" value="&lt;div&gt;Stored in cateringOptions&lt;/div&gt;&lt;div&gt;&quot;event&quot; | &quot;custom&quot;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="445" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xJZKZYmXjktM33wxzpQ9-18" value="&lt;p style=&quot;line-height: 50%;&quot; align=&quot;left&quot; data-pm-slice=&quot;0 0 []&quot;&gt;const defaultValues: ReservationValues = {&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot; align=&quot;left&quot;&gt;  fullName: &quot;&quot;,&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot; align=&quot;left&quot;&gt;  email: &quot;&quot;,&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot; align=&quot;left&quot;&gt;  contactNumber: &quot;&quot;,&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot; align=&quot;left&quot;&gt;  reservationType: &quot;event&quot;,&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot; align=&quot;left&quot;&gt;  eventType: &quot;&quot;,&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot; align=&quot;left&quot;&gt;  reservationDate: new Date(),&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot; align=&quot;left&quot;&gt;  reservationTime: &quot;08:00&quot;,&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot; align=&quot;left&quot;&gt;  period: &quot;A.M.&quot;,&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot; align=&quot;left&quot;&gt;  guestCount: 20,&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot; align=&quot;left&quot;&gt;  venue: &quot;&quot;,&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot; align=&quot;left&quot;&gt;  cateringOptions: &quot;event&quot;,&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot; align=&quot;left&quot;&gt;  serviceType: &quot;Buffet&quot;,&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot; align=&quot;left&quot;&gt;  serviceFee: 0,&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot; align=&quot;left&quot;&gt;  serviceHours: &quot;4 hours&quot;,&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot; align=&quot;left&quot;&gt;  selectedPackage: &quot;&quot;,&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot; align=&quot;left&quot;&gt;  selectedMenus: {},&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot; align=&quot;left&quot;&gt;  totalPrice: 0,&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot; align=&quot;left&quot;&gt;  specialRequests: &quot;&quot;,&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot; align=&quot;left&quot;&gt;  deliveryOption: &quot;Pickup&quot;,&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot; align=&quot;left&quot;&gt;  deliveryFee: 0,&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot; align=&quot;left&quot;&gt;  deliveryAddress: &quot;&quot;,&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot; align=&quot;left&quot;&gt;  deliveryInstructions: &quot;&quot;,&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot; align=&quot;left&quot;&gt;  paymentReference: &quot;&quot;,&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot; align=&quot;left&quot;&gt;  status: &quot;Pending&quot;,&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot; align=&quot;left&quot;&gt;  createdAt: new Date(),&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot; align=&quot;left&quot;&gt;  updatedAt: new Date(),&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot; align=&quot;left&quot;&gt;};&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="15" y="288" width="250" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="xJZKZYmXjktM33wxzpQ9-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xJZKZYmXjktM33wxzpQ9-19" target="xJZKZYmXjktM33wxzpQ9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xJZKZYmXjktM33wxzpQ9-19" value="Select a Package" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="600" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xJZKZYmXjktM33wxzpQ9-21" value="&lt;div&gt;Stored in selectedPackage&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="570" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xJZKZYmXjktM33wxzpQ9-24" value="Menus are limited based on package" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="700" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xJZKZYmXjktM33wxzpQ9-25" value="Menus are unlimited since this is custom" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="615" y="610" width="240" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
